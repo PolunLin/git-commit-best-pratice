@@ -3,6 +3,7 @@
 此規範用於撰寫清晰一致的 Git commit 訊息，讓團隊能迅速理解代碼更改的內容及目的，提升 Code Review 的效率。
 
 ## Commit Message 組成
+![image](https://github.com/user-attachments/assets/baebc4db-c29e-4fa7-ad68-49ba9d035ae4)
 
 ### Header: `<type>(<scope>): <subject>`
 
